@@ -56,10 +56,7 @@ get_header(); ?>
 				</div>
 				<!-- content --> 
 			</div>
-		
-			<div id="sidebar" class="span3">
-				<?php get_sidebar(); ?>
-				<div class="clearfix"></div>
+"></div>
 			</div>
 			<div class="clearfix"></div>
 			<!-- Sidebar --> 
