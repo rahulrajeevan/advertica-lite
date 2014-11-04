@@ -10,10 +10,4 @@ get_header(); ?>
 				<!-- post -->
 			
 			<!-- content --> 
-		</div>
-	</div>
-</
-
-
-
-TestTestTestTestTest
+	estTestTestTest
