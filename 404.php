@@ -13,5 +13,3 @@ s				<!-- post -->
 			<!-- content --> 
 		</div>
 	</div>
-</div>
-<?php get_footer(); ?>
