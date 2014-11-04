@@ -6,10 +6,5 @@
 
 get_header(); ?>
 			<p><?php _e( 'Sorry, but the requested resource was not found on this site. Please try again or contact the administrator for assistance.', 'advertica-lite' ); ?></p>
-					</div>
 
-s				<!-- post -->
-			</div>
-			<!-- content --> 
-		</div>
-	</div>
+</
