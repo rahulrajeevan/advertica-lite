@@ -1,5 +1,5 @@
 <?php
-
+Test
 get_header(); ?>
 
 <?php global $advertica_shortname; ?>
