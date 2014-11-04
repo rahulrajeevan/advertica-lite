@@ -9,5 +9,3 @@ get_header(); ?>
 				div>
 				<!-- post -->
 			
-			<!-- content --> 
-	estTestTestTest
